@@ -1,17 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Surendra Meena  
 
-<!--
-**surendrameena4ybtx-wq/surendrameena4ybtx-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about Tech | 🌐 Learning Web Development | ☁️ Exploring Cloud  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Added my profile details
+## 🔥 About Me  
+- 💻 I love building simple and useful projects  
+- 📚 Currently learning HTML, CSS, JavaScript & Cloud  
+- 🎯 Goal: Become a skilled developer  
+- ❤️ Shayari + Coding = My Style 😎  
+
+---
+
+## 🛠️ Skills  
+- HTML  
+- CSS  
+- JavaScript (Basic)  
+- Cloud (Beginner)  
+
+---
+
+## 📌 Projects  
+- Assistor – Insecure cloud infra testing tool  
+- RasMartinez – HTML project  
+- 32co-infra – Infra project  
+
+---
+
+## 🌍 Connect With Me  
+- Facebook: https://www.facebook.com/share/1EHQF9WU6Q/  
+- YouTube: https://youtube.com/@shayriloverofficil  
+- Instagram: s_gothwal_27989  
+
+---
+
+## 💭 Quote  
+"Code karo, seekho, aur kabhi rukna mat 💯🔥"  
+
+---
+
+⭐ Thanks for visiting my profile!
